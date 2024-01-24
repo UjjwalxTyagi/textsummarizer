@@ -11,7 +11,7 @@ const Hero = () => {
         <button
           type='button'
           onClick={() =>
-            window.open("https://github.com/TidbitsJS/Summize", "_blank")
+            window.open("https://github.com/UjjwalxTyagi/textsummarizer", "_blank")
           }
           className='black_btn'
         >
@@ -19,13 +19,11 @@ const Hero = () => {
         </button>
       </nav>
 
-      <h1 className='head_text'>
-        Summarize Articles with <br className='max-md:hidden' />
-        <span className='orange_gradient '>OpenAI GPT-4</span>
+      <h1 className='orange_gradient'>
+        Text Summarizer
       </h1>
       <h2 className='desc'>
-        Simplify your reading with Summize, an open-source article summarizer
-        that transforms lengthy articles into clear and concise summaries
+      Introducing our innovative text summarizer – a powerful tool designed to streamline your reading experience. Simply provide a link to any article, and watch as our summarizer extracts key insights, condensing the content into a concise and easily digestible summary. Save time, get to the core of the information, and stay informed with our efficient and user-friendly text summarizer.
       </h2>
     </header>
   );
