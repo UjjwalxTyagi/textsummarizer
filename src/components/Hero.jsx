@@ -24,7 +24,7 @@ const Hero = () => {
       </h1>
       <h2 className='desc'>
       Introducing our innovative text summarizer – a powerful tool designed to streamline your reading experience. Simply provide a link to any article, and watch as our summarizer extracts key insights, condensing the content into a concise and easily digestible summary. Save time, get to the core of the information, and stay informed with our efficient and user-friendly text summarizer.
-      </h2>
+      </h2>``
     </header>
   );
 };
